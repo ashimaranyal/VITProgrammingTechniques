@@ -17,3 +17,8 @@ To check if your work is functional, then use the following command:
 ```bash
 python -m unittest discover
 ```
+
+To check a single exercise, you may call the following (assuming exercise number `N`):
+```bash
+python -m unittest students/exerciseN.py
+```
