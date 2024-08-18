@@ -11,9 +11,9 @@ def exercise3(array):
     
     Example:
     ```
-    exercise3([1 2 3 4 5])
-        1,5
-    min, max = exercise3([5 4 3 2 1])
+    print(exercise3([1, 2, 3, 4, 5]))
+        (1, 5)
+    min, max = exercise3([5, 4, 3, 2, 1])
     print(min)
         1
     print(max)
